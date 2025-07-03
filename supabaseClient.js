@@ -1,1 +1,1 @@
-
+// placeholder content for supabaseClient.js
